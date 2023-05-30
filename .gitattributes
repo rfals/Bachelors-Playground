@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+C:/Users/ReinisFals/OneDrive[[:space:]]-[[:space:]]Peero,[[:space:]]SIA/Desktop/Bachelors[[:space:]]Research/Bachelors-Research/Bachelors-Playground/data/credit-score-data-cleaned.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/ReinisFals/OneDrive[[:space:]]-[[:space:]]Peero,[[:space:]]SIA/Desktop/Bachelors[[:space:]]Research/Bachelors-Research/Bachelors-Playground/data/credit-score-data.parquet filter=lfs diff=lfs merge=lfs -text
