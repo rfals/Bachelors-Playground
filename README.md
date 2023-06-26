@@ -2,7 +2,7 @@
 This project focuses on developing machine learning models to predict credit defaults using credit score data obtained from Hugging Face. It aims to provide accurate predictions to assess the likelihood of credit default events.
 
 ## Data
-The dataset used in this project is sourced from Hugging Face and consists of credit score data. It contains various features that can be utilized for credit default prediction.
+The dataset used in this project is sourced from [Hugging Face](https://huggingface.co/datasets/jlh/home-credit/tree/main/data) and consists of credit score data. It contains various features that can be utilized for credit default prediction.
 
 ## Setup
 To set up the project environment, you have two options:
